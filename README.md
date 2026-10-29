@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Welcome to my GitHub!
+
+Here you'll find my projects, experiments, and journey as a software developer.
+
+Thanks for stopping by!
 
 <!--
 **trobodev/trobodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
