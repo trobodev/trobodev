@@ -10,6 +10,7 @@
 ```
 
 </div>
+
 # Welcome to my GitHub!
 
 I'm a junior software developer exploring Java, Spring Boot and cloud technologies.
