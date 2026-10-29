@@ -11,14 +11,9 @@
 
 # Welcome to my GitHub!
 
-Junior software developer building things from the database to the API.
-Here you'll find my projects, experiments and learning journey.
+I'm a junior software developer exploring Java, Spring Boot and cloud technologies.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+Here you'll find my projects, experiments and learning journey.
 
 </div>
 
