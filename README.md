@@ -1,8 +1,21 @@
-👋 Welcome to my GitHub!
+```text
+████████╗██████╗  ██████╗ ██████╗  ██████╗ ██████╗ ███████╗██╗   ██╗
+╚══██╔══╝██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗██╔══██╗██╔════╝██║   ██║
+   ██║   ██████╔╝██║   ██║██████╔╝██║   ██║██║  ██║█████╗  ██║   ██║
+   ██║   ██╔══██╗██║   ██║██╔══██╗██║   ██║██║  ██║██╔══╝  ╚██╗ ██╔╝
+   ██║   ██║  ██║╚██████╔╝██████╔╝╚██████╔╝██████╔╝███████╗ ╚████╔╝
+   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝  ╚═══╝
+```
 
-Here you'll find my projects, experiments, and journey as a software developer.
+# 👋 Welcome to my GitHub!
 
-Thanks for stopping by!
+I'm a junior software developer exploring Java, Spring Boot and cloud technologies.
+
+Here you'll find my projects, experiments and learning journey.
+
+**Tech stack:** Java · Spring Boot · SQL · AWS
+
+Thanks for stopping by! 🚀
 
 <!--
 **trobodev/trobodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
